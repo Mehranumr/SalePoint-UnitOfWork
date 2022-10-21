@@ -1,6 +1,8 @@
 # SalePoint-UnitOfWork
 This is very basic sample code to work with Generic Repository Pattern with Unit of Work.
 
+Any new work contributed to this repo will be appricated.
+
 Reference:shorturl.at/rwxJK
 
 # Packages Included:
