@@ -1,0 +1,17 @@
+curl --location --request POST 'http://localhost:5000/SalePoint' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "methodId": "0",
+    "data": {
+        "brandName": "Mint"
+    }
+}'
+
+curl --location --request POST 'http://localhost:5000/SalePoint' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "methodId": "1",
+    "data": {
+        "id": 8
+    }
+}'

@@ -8,4 +8,9 @@ Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0"
 Microsoft.EntityFrameworkCore.Tools" Version="3.1.0"
 
 # Database Script
-See dbscript.txt file in code
+Find Database Creation Scripts in following file
+DDL.txt
+
+# Postman Collection
+Find CURL requests in follwoing file
+Postman-Collections.txt
