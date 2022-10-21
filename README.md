@@ -1,6 +1,6 @@
 # SalePoint-UnitOfWork
 
-#Packages Included:
+# Packages Included:
 Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0"
 Microsoft.EntityFrameworkCore.Tools" Version="3.1.0"
 
